@@ -5,3 +5,4 @@ torch
 tabulate
 numpy<2
 psutil
+packaging
