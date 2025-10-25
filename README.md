@@ -51,6 +51,7 @@ The Additive Merge strategy allows you to use 100% of the first LoRA model while
    ```bash
    git clone https://github.com/Anashel-RPG/anashel-utils.git
    cd anashel-utils
+   pip install -r requirements.txt
    ```
 
 ### Step 2: Make the Start Script Executable (macOS/Linux Only)
